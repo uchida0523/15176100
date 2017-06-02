@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ogura.kml</name>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff400080</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff400080</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>小倉トースト</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト1.png"><p>
+本格珈琲 昭和</p>]]></description>
+			<LookAt>
+				<longitude>139.7072472994904</longitude>
+				<latitude>35.73030850581193</latitude>
+				<altitude>0</altitude>
+				<heading>-2.975726959977266e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000012826531</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7072472994904,35.73030850581193,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト2.png"><p>
+珈琲ショパン</p>]]></description>
+			<LookAt>
+				<longitude>139.7688765772328</longitude>
+				<latitude>35.69692229854206</latitude>
+				<altitude>0</altitude>
+				<heading>-1.328458532130236e-08</heading>
+				<tilt>0</tilt>
+				<range>1000.000035397806</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7688765772328,35.69692229854206,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト3.png"><p>
+天のや</p>]]></description>
+			<LookAt>
+				<longitude>139.7364063789938</longitude>
+				<latitude>35.65328881748953</latitude>
+				<altitude>0</altitude>
+				<heading>-1.68853771511636e-08</heading>
+				<tilt>0</tilt>
+				<range>1038.526771869773</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7364063789937,35.65328881748953,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト4.png"><p>
+カフェマメヒコ三軒茶屋</p>]]></description>
+			<LookAt>
+				<longitude>139.6691969355272</longitude>
+				<latitude>35.64453500647193</latitude>
+				<altitude>0</altitude>
+				<heading>-3.757180657715213e-08</heading>
+				<tilt>0</tilt>
+				<range>1000.000036085678</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6691969355272,35.64453500647192,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト5.png"><p>
+honu加藤珈琲店 栄店</p>]]></description>
+			<LookAt>
+				<longitude>136.9103973403109</longitude>
+				<latitude>35.17366541423093</latitude>
+				<altitude>0</altitude>
+				<heading>-2.990429392047799e-08</heading>
+				<tilt>0</tilt>
+				<range>1123.727471484716</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.9103973403109,35.17366541423094,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/小倉トースト/小倉トースト6.png"><p>
+川志満</p>]]></description>
+			<LookAt>
+				<longitude>139.7170160411557</longitude>
+				<latitude>35.67067656406356</latitude>
+				<altitude>0</altitude>
+				<heading>-8.878986889009986e-08</heading>
+				<tilt>0</tilt>
+				<range>1020.290004139932</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7170160411557,35.67067656406356,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>purin.kml</name>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff004080</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff004080</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>プリン</name>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン1.png"><p>
+グーテ・ド・ママン</p>]]></description>
+			<LookAt>
+				<longitude>139.739974999702</longitude>
+				<latitude>35.64748618356516</latitude>
+				<altitude>0</altitude>
+				<heading>1.192494249374239e-05</heading>
+				<tilt>26.51563621480183</tilt>
+				<range>219</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7399296691893,35.64745565502064,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン2.png"><p>
+スマート珈琲店</p>]]></description>
+			<LookAt>
+				<longitude>135.7670654685327</longitude>
+				<latitude>35.00949504689117</latitude>
+				<altitude>0</altitude>
+				<heading>2.660445441221346e-06</heading>
+				<tilt>30.00004907664868</tilt>
+				<range>49.81178117639323</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7670573179782,35.00945612008052,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン3.png"><p>
+菓子工房ルスルス 浅草店</p>]]></description>
+			<LookAt>
+				<longitude>139.7977216890828</longitude>
+				<latitude>35.71743912970964</latitude>
+				<altitude>0</altitude>
+				<heading>-74.58117706349891</heading>
+				<tilt>46.64368877198323</tilt>
+				<range>100.591490775151</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7976888888889,35.71745833333333,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン4.png"><p>
+パティスリーSATSUKI</p>]]></description>
+			<LookAt>
+				<longitude>139.7353848935598</longitude>
+				<latitude>35.68074246045613</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004887844648959488</heading>
+				<tilt>47.17258651900269</tilt>
+				<range>334.1304795820328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7348065750209,35.68034166666666,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン5.png"><p>
+キャンティ 丸ビル店</p>]]></description>
+			<LookAt>
+				<longitude>139.7637510947381</longitude>
+				<latitude>35.68090219758487</latitude>
+				<altitude>0</altitude>
+				<heading>-2.608440461653918e-05</heading>
+				<tilt>24.7168160586889</tilt>
+				<range>150.6525422820746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.763797001745,35.68104796655526,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン6.png"><p>
+江戸甘味慮</p>]]></description>
+			<LookAt>
+				<longitude>139.7844839780847</longitude>
+				<latitude>35.68426078081552</latitude>
+				<altitude>0</altitude>
+				<heading>-6.42988923417465e-05</heading>
+				<tilt>29.07371995305448</tilt>
+				<range>112.1087156046669</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7846127969351,35.68414580751197,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/プリン/プリン7.png"><p>
+Conure・広尾</p>]]></description>
+			<LookAt>
+				<longitude>139.7170949378291</longitude>
+				<latitude>35.64834499431336</latitude>
+				<altitude>0</altitude>
+				<heading>2.765927174881309</heading>
+				<tilt>46.28334467641422</tilt>
+				<range>82.62390230486534</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7171266140229,35.64834097106319,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

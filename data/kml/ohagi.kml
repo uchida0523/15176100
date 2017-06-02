@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ohagi.kml</name>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff008080</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff008080</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>おはぎ（つぶあん）</name>
+		<open>1</open>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ1.png"><p>
+廚菓子 くろぎ</p>]]></description>
+			<LookAt>
+				<longitude>139.7627074069565</longitude>
+				<latitude>35.70798299264802</latitude>
+				<altitude>0</altitude>
+				<heading>4.060172064723748e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000034705618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7627074069565,35.70798299264802,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ2.png"><p>
+良米工房 堀江米店</p>]]></description>
+			<LookAt>
+				<longitude>139.7566005281944</longitude>
+				<latitude>35.72003513686784</latitude>
+				<altitude>0</altitude>
+				<heading>1.509577126798985e-09</heading>
+				<tilt>0</tilt>
+				<range>1040.232736748522</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7566005281944,35.72003513686783,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ3.png"><p>
+伊勢屋</p>]]></description>
+			<LookAt>
+				<longitude>139.7203530805413</longitude>
+				<latitude>35.78030290557945</latitude>
+				<altitude>0</altitude>
+				<heading>2.73792006699892e-09</heading>
+				<tilt>0</tilt>
+				<range>1002.359065416921</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7203530805413,35.78030290557945,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ4.png"><p>
+甘味 おかめ 麹町店</p>]]></description>
+			<LookAt>
+				<longitude>139.7437641290865</longitude>
+				<latitude>35.68329686466243</latitude>
+				<altitude>0</altitude>
+				<heading>-1.610346640771793e-10</heading>
+				<tilt>0</tilt>
+				<range>1008.171749708821</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7437641290865,35.68329686466242,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ5.png"><p>
+さいち</p>]]></description>
+			<LookAt>
+				<longitude>140.7211140482982</longitude>
+				<latitude>38.22781542129919</latitude>
+				<altitude>0</altitude>
+				<heading>-3.199250936047564e-08</heading>
+				<tilt>0</tilt>
+				<range>1000.000152655942</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.7211140482982,38.22781542129918,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/おはぎ/おはぎ6.png"><p>
+今西軒</p>]]></description>
+			<LookAt>
+				<longitude>135.7591243466375</longitude>
+				<latitude>34.99970329559461</latitude>
+				<altitude>0</altitude>
+				<heading>0.9395218442491297</heading>
+				<tilt>66.64984799631557</tilt>
+				<range>1363.062030507078</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7589624287653,34.99594766081862,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

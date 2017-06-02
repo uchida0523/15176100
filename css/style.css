@@ -11,7 +11,7 @@ html, body, #cesiumContainer {
 }
 
 h2 {
-    font-size: 13px;
+    font-size: 5px;
     font-weight: bold;
     text-align: center;
 }
@@ -30,15 +30,17 @@ a:hover {
 /*Cesiumインターフェイス関連*/
 
 .cesium-infoBox-iframe {
-    width: 320px;
+    width: 300px;
+    height:240px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
-    z-index: 10001;
+
 }
 
 .cesium-infoBox {
-    width: 320px;
+    width: 270px;
+    height:240px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
@@ -49,7 +51,8 @@ a:hover {
 }
 
 .cesium-infoBox-visible {
-    width: 320px;
+    width: 270px;
+    height:240px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
@@ -126,28 +129,14 @@ button.cesium-infoBox-close {
     margin: 0px;
     margin-bottom: 0px;
     background: white;
+    color:red;
     text-align: center;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
 }
 
-#slideMenuLayer {
-    position: fixed;
-    top: 48px;
-    right: -200px;
-    width: 100px;
-    opacity: 0.8;
-    padding: 10px 10px 0px 10px;
-    margin: 0px;
-    margin-bottom: 0px;
-    background: white;
-    text-align: left;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-    z-index: 10005;
-}
+
 
 .viewpoint {
     padding: 0;
@@ -310,4 +299,26 @@ input {
     z-index: 20000;
     margin: 0;
     padding: 0;
+}
+/* チェックボックス */
+#check_bar {
+    position:absolute;
+    z-index:20000;
+    left: 4px;
+    bottom: 180px;
+    font-size: 12px;
+}
+
+label{
+  cursor: pointer;
+  color: red;
+  background-color: white;
+  padding:4px;
+  border-radius: 15px;
+}
+input{
+  display: none;
+}
+.check_box:checked + .label {
+  background-color: orange;
 }

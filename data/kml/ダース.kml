@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ダース.kml</name>
+	<Style id="sn_arrow">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_arrow">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_arrow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>ダース</name>
+		<description>森永製菓 1993</description>
+		<LookAt>
+			<longitude>139.711988665729</longitude>
+			<latitude>35.66970470635385</latitude>
+			<altitude>0</altitude>
+			<heading>-65.42276013486</heading>
+			<tilt>68.84170571827705</tilt>
+			<range>8241.518401563075</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_arrow</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>139.7347680620639,35.64926051780495,600</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -4,11 +4,11 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-	<meta name="description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
+	<meta name="description" content="BRUTAS 特別編集　" />
 	<meta property="og:image" content="data/hinoshi.png" />
 	<meta property="og:description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-	<title>日野市オープンデータ可視化</title>
+	<title>最高のおやつ</title>
 	<link rel="alternate" href="http://hiroshima.archiving.jp/index_en.html" hreflang="en" />
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
@@ -63,8 +63,58 @@
 	<div id="osmCredit">
 		<a href="https://www.openstreetmap.org/copyright" target="_blank">MapData: © OpenStreetMap contributors</a>
 	</div>
+	<!-- チェックボックス -->
+	<div id="check_bar" style="display: block;">
+		<form name="check_box">
+			<label for="ohagi">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "ohagi">
+	おはぎ
+	</label>
+	</br>
+	<label for = "pan">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "pan">
+	クリームパン
+	</label>
+			</br>
+			<label for="purin">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "purin">
+	プリン
+	</label>
+			</br>
+			<label for="sando">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "sando">
+	フルーツサンド
+	</label>
+			</br>
+	<label for = "hot">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "hot">
+	ホットケーキ
+	</label>
+			</br>
+	<label for = "shiruko">
+	<input type = "checkbox" class = "chbox" checked = "checked" id = "shiruko">
+	懐中汁粉
+	</label>
+</br>
+<label for = "ogura">
+<input type = "checkbox" class = "chbox" checked = "checked" id = "ogura">
+小倉トースト
+</label>
+</br>
+<label for = "remon">
+<input type = "checkbox" class = "chbox" checked = "checked" id = "remon">
+レモンケーキ
+</label>
+<label for = "select">
+</br>
+<input type = "checkbox" class = "chbox" checked = "checked" id = "select">
+セレクト
+</label>
+		</form>
+	</div>
+	<!-- チェックボックスここまで -->
 	<script>
-		// ========== 初期化 ========== 
+		// ========== 初期化 ==========
 
 		//スマホで閲覧した際に，スワイプによるスクロールを禁止
 
@@ -90,19 +140,22 @@
 			$(svNotAvailable).hide();
 		});
 
-		// ========== ビューア初期化 ========== 
+		// ========== ビューア初期化 ==========
 
-		var viewer = new Cesium.Viewer('cesiumContainer', {
-			imageryProvider: new Cesium.ArcGisMapServerImageryProvider({
-				url: '//server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer',
-				enablePickFeatures: false
-			}),
+    var viewer = new Cesium.Viewer('cesiumContainer', {
+			imageryProvider: new Cesium.createOpenStreetMapImageryProvider({
+        url: 'http://cyberjapandata.gsi.go.jp/xyz/english/',
+        credit: '地理院地図'
+      }),
+
+
+
 			navigationHelpButton: false,
 			navigationInstructionsInitiallyVisible: false,
 			geocoder: false,
 			//時間を使うときは以下の二行をコメントアウト
 			timeline: false,
-			animation: false,
+		  animation: false,
 			sceneModePicker: false,
 			baseLayerPicker: false,
 			scene3DOnly: true,
@@ -119,8 +172,8 @@
 		var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
 			url: '//assets.agi.com/stk-terrain/world',
 			//海を表示しないときは以下をfalseに
-			requestWaterMask: true,
-			requestVertexNormals: true
+			requestWaterMask: false,
+			requestVertexNormals: false
 		});
 		viewer.terrainProvider = cesiumTerrainProviderMeshes;
 
@@ -130,7 +183,7 @@
 		fog.density = 0.0005;
 		fog.screenSpaceErrorFactor = 100.0;
 
-		// ========== 視点関連 ========== 
+		// ========== 視点関連 ==========
 
 		//視点配列を作成
 
@@ -147,9 +200,11 @@
 
 		//視点を登録：　緯度，経度，注視点の高さ，傾き，視点の高さ
 
-		viewPointsArray[0] = new viewPoints("首都大", 35.661, 139.3657347, 0, -45, 1000);
-		viewPointsArray[1] = new viewPoints("日野市", 35.654, 139.394, 0, -89, 15000);
-		viewPointsArray[2] = new viewPoints("初期視点", 35.654, 139.394, 0, -35, 5000);
+		viewPointsArray[0] = new viewPoints("日本全体", 35.36058124053812138, 138.7277770216129, 0, -20, 700000);
+		viewPointsArray[1] = new viewPoints("北海道地方", 43.2203266, 142.8634737, 0, -89, 600000);
+		viewPointsArray[2] = new viewPoints("東京周辺", 35.66986747937307, 139.7278152804606, 950, -30, 30000);
+		viewPointsArray[3] = new viewPoints("関西地方", 34.74853974002133, 136.4509182745454, 1040, -30, 300000);
+		viewPointsArray[4] = new viewPoints("九州地方", 32.645335635,130.958688, 0, -30, 400000);
 
 		//視点メニューを作成
 
@@ -195,7 +250,7 @@
 			navigator.geolocation.getCurrentPosition(fly);
 		}
 
-		// ========== 以降，起動シークエンス ========== 
+		// ========== 以降，起動シークエンス ==========
 
 		//クレジットを隠す
 
@@ -208,7 +263,7 @@
 
 		function groundZero() {
 			//視点を移動：視点番号，デュレーション
-			changeViewPoint(1, 3);
+			changeViewPoint(2, 0);
 			//オーバレイを追加
 			openStreetMapLayer();
 			setTimeout('landing()', 4000);
@@ -216,13 +271,13 @@
 
 		function landing() {
 			//視点を移動：視点番号，デュレーション
-			changeViewPoint(2, 3);
+			changeViewPoint(0, 6);
 			//ローディングGIFを表示
 			setTimeout('fadeInOut(blackOutDiv,1)', 3000);
 			setTimeout('loadKml()', 3000);
 		}
 
-		// ========== KMLをロード ========== 
+		// ========== KMLをロード ==========
 
 		//KML配列を作成
 
@@ -233,10 +288,45 @@
 
 		var kmlDataArray = [];
 		//KMLデータを登録．kmzでもOK
-		kmlDataArray[0] = new kmlData("避難所", 'data/kml/hinanjo.kml');
-		kmlDataArray[1] = new kmlData("避難場所", 'data/kml/hinanbasyo.kml');
+		kmlDataArray[0] = new kmlData("ohagi", 'data/kml/ohagi.kml');
+
+		kmlDataArray[1] = new kmlData("pan", 'data/kml/pan.kml');
+
+		kmlDataArray[2] = new kmlData("purin", 'data/kml/purin.kml');
+
+		kmlDataArray[3] = new kmlData("sando", 'data/kml/sando.kml');
+
+		kmlDataArray[4] = new kmlData("hot", 'data/kml/hot.kml');
+
+		kmlDataArray[5] = new kmlData("shiruko", 'data/kml/shiruko.kml');
+
+		kmlDataArray[6] = new kmlData("ogura", 'data/kml/ogura.kml');
+
+		kmlDataArray[7] = new kmlData("remon", 'data/kml/remon.kml');
+
+		kmlDataArray[8] = new kmlData("select", 'data/kml/select.kml');
+
+
+
+
+		//チェックボックス
+
+		var dataSources = viewer.dataSources._dataSources;
+
+        $("#check_bar :checkbox").click(function () {
+			console.log(dataSources);
+            var elements = document.getElementsByClassName("chbox");
+            for (var i = 0, l = elements.length; l > i; i++) {
+                if (elements[i].checked) {
+                    dataSources[i].show = true;
+                } else {
+                    dataSources[i].show = false;
+                }
+           }
+        });
+
 		//時間情報入りのKML
-		//kmlDataArray[2] = new kmlData("タイムスパン", 'data/kml/timeSpans.kml');
+		//kmlDataArray[9] = new kmlData("timespan", 'data/kml/timespan.kml');
 
 		function loadKml() {
 			var i = 0;
@@ -272,7 +362,7 @@
 			}, 200);
 		}
 
-		// ========== 地図オーバレイを作成 ========== 
+		// ========== 地図オーバレイを作成 ==========
 
 		// オーバレイ配列
 
@@ -314,7 +404,7 @@
 			overlayListMenu.innerHTML = overlayList;
 		}
 
-		//オーバレイの透明度を変更 
+		//オーバレイの透明度を変更
 
 		function transParent(layer) {
 			var id = overlayDataArray[layer].id;
@@ -358,7 +448,7 @@
 			);
 		}
 
-		// ========== ダブルクリックでストビューを表示 ========== 
+		// ========== ダブルクリックでストビューを表示 ==========
 
 		//移動前のカメラ位置格納オブジェクト
 
@@ -422,13 +512,13 @@
 			}, Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
 		}
 
-		// ========== ヘルプへリンク ========== 
+		// ========== ヘルプへリンク ==========
 
 		function help() {
 			window.open('https://github.com/wtnv-lab/cesiumGitHubPages');
 		}
 
-		// ========== 各種DIVのフェードイン・アウト ========== 
+		// ========== 各種DIVのフェードイン・アウト ==========
 
 		function fadeInOut(layer, param) {
 			if (param == 0) {

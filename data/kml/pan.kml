@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>pan.kml</name>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff66ccff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff66ccff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>クリームパン</name>
+		<open>1</open>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン1.png"><p>nukumuku</p>]]></description>
+			<LookAt>
+				<longitude>139.6673765903507</longitude>
+				<latitude>35.64970541825736</latitude>
+				<altitude>0</altitude>
+				<heading>5.265892037529903e-08</heading>
+				<tilt>0</tilt>
+				<range>1000.000127579272</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6673765903507,35.64970541825736,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン2.png"><p>
+fig</p>]]></description>
+			<LookAt>
+				<longitude>139.5692238419436</longitude>
+				<latitude>35.70509643623611</latitude>
+				<altitude>0</altitude>
+				<heading>7.423136922764965e-06</heading>
+				<tilt>29.99886349633982</tilt>
+				<range>76.03109782345179</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5692027777778,35.70510833333334,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン3.png"><p>亀井堂</p>]]></description>
+			<LookAt>
+				<longitude>139.7356656543701</longitude>
+				<latitude>35.70417189450492</latitude>
+				<altitude>0</altitude>
+				<heading>0.01777839007763169</heading>
+				<tilt>25.94435121079043</tilt>
+				<range>116.0044185036288</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7355457138612,35.70413864778028,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン4.png"><p>
+みんなのぱんや</p>]]></description>
+			<LookAt>
+				<longitude>139.7648482206877</longitude>
+				<latitude>35.67882796458242</latitude>
+				<altitude>0</altitude>
+				<heading>0.006453619846962465</heading>
+				<tilt>29.73648748389249</tilt>
+				<range>224.240550822754</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7649805555556,35.67857222222222,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン5.png"><p>
+バックハウス</p>]]></description>
+			<LookAt>
+				<longitude>135.4484877910367</longitude>
+				<latitude>34.75796702840371</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002669816051355185</heading>
+				<tilt>20.22507200534354</tilt>
+				<range>390.2091814321682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.4489007023724,34.75778968814817,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン6.png"><p>
+バナデリーヤティグレ</p>]]></description>
+			<LookAt>
+				<longitude>139.6777579321439</longitude>
+				<latitude>35.62877654649089</latitude>
+				<altitude>0</altitude>
+				<heading>-5.059748008502633e-06</heading>
+				<tilt>29.07622094185602</tilt>
+				<range>134.7212605615975</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6777739208365,35.62866080713459,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:800px;" src="data/pin_icon_image/クリームパン/クリームパン7.png"><p>
+ブーランジェリーセイジアサクラ</p>]]></description>
+			<LookAt>
+				<longitude>139.7334017578533</longitude>
+				<latitude>35.63622873257111</latitude>
+				<altitude>0</altitude>
+				<heading>3.819619790733514e-05</heading>
+				<tilt>27.21204725615108</tilt>
+				<range>181.7215657965907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7333238311072,35.63600571700634,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

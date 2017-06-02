@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shiruko.kml</name>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff804000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff804000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>懐中汁粉</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか1.png"><p><>
+京華堂利保</p>]]></description>
+			<LookAt>
+				<longitude>135.7741920017386</longitude>
+				<latitude>35.01380301637984</latitude>
+				<altitude>0</altitude>
+				<heading>9.975714341769877e-10</heading>
+				<tilt>0</tilt>
+				<range>999.9997928713457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7741920017386,35.01380301637984,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか2.png"><p>
+庄之助 神田須田町店</p>]]></description>
+			<LookAt>
+				<longitude>137.4055591763161</longitude>
+				<latitude>35.29281687715791</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007038017580914624</heading>
+				<tilt>0</tilt>
+				<range>163635.5856780376</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.4055591763161,35.29281687715792,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか3.png"><p>
+深川榮太棲</p>]]></description>
+			<LookAt>
+				<longitude>139.7956358368452</longitude>
+				<latitude>35.68635892599026</latitude>
+				<altitude>0</altitude>
+				<heading>2.45281794424065e-07</heading>
+				<tilt>0</tilt>
+				<range>1319.028596526132</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7956358368452,35.68635892599026,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか4.png"><p>
+塩芳軒</p>]]></description>
+			<LookAt>
+				<longitude>135.7497110943712</longitude>
+				<latitude>35.02525439189945</latitude>
+				<altitude>0</altitude>
+				<heading>-3.230562542720168e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000002719876</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7497110943712,35.02525439189945,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか5.png"><p>
+秋色庵大坂家</p>]]></description>
+			<LookAt>
+				<longitude>139.7440947530076</longitude>
+				<latitude>35.64773568831586</latitude>
+				<altitude>0</altitude>
+				<heading>-5.286067091013096e-07</heading>
+				<tilt>0</tilt>
+				<range>1512.331312264292</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7440947530076,35.64773568831586,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/もなか/もなか6.png"><p>
+二條若狭屋</p>]]></description>
+			<LookAt>
+				<longitude>135.7677663628793</longitude>
+				<latitude>35.0135870445267</latitude>
+				<altitude>0</altitude>
+				<heading>-2.152234372973162e-06</heading>
+				<tilt>0</tilt>
+				<range>2184.168271568516</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7677663628793,35.0135870445267,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

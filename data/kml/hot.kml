@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hot.kml</name>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff0080ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff0080ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>ホットケーキ</name>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ1.png"><p>
+<p>銀座ウエスト青山ガーデン</p>]]></description>
+			<LookAt>
+				<longitude>139.724632620828</longitude>
+				<latitude>35.66679345201867</latitude>
+				<altitude>0</altitude>
+				<heading>-1.440257662046859e-05</heading>
+				<tilt>19.10626352523204</tilt>
+				<range>324.7703433958455</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7246696636042,35.66688887490849,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ2.png"><p>
+ホットケーキ つるばみ舎</p>]]></description>
+			<LookAt>
+				<longitude>139.6381220847269</longitude>
+				<latitude>35.65266406152991</latitude>
+				<altitude>0</altitude>
+				<heading>4.486636715016026e-05</heading>
+				<tilt>30.0002926145476</tilt>
+				<range>100.3577830713194</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6380010021647,35.65254587865582,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ3.png"><p>
+小野珈琲</p>]]></description>
+			<LookAt>
+				<longitude>139.79869098574</longitude>
+				<latitude>35.68784272300339</latitude>
+				<altitude>0</altitude>
+				<heading>2.317246639689209e-05</heading>
+				<tilt>29.99971429759309</tilt>
+				<range>57.04793408651231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7986582517466,35.68785721148369,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ4.png"><p>
+イワタコーヒー店</p>]]></description>
+			<LookAt>
+				<longitude>139.551507125353</longitude>
+				<latitude>35.31953579424061</latitude>
+				<altitude>0</altitude>
+				<heading>-6.738443296782269e-06</heading>
+				<tilt>29.57993607168029</tilt>
+				<range>93.14984781520607</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5515044207077,35.31950073837631,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ5.png"><p>
+喫茶 ミモザ</p>]]></description>
+			<LookAt>
+				<longitude>139.7957262626584</longitude>
+				<latitude>35.71933198194314</latitude>
+				<altitude>0</altitude>
+				<heading>6.887205059093444e-06</heading>
+				<tilt>29.99919790777207</tilt>
+				<range>135.382119224929</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7956809342184,35.71921817419741,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ6.png"><p>
+33+COFFEE</p>]]></description>
+			<LookAt>
+				<longitude>135.1946163920113</longitude>
+				<latitude>34.70054213122578</latitude>
+				<altitude>0</altitude>
+				<heading>7.455691289832143e-06</heading>
+				<tilt>28.83134836266875</tilt>
+				<range>76.45970426703275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.1945888888889,34.70054406820214,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/ホットケーキ/ホットケーキ7.png"><p>
+珈琲 天国</p>]]></description>
+			<LookAt>
+				<longitude>139.7940349924542</longitude>
+				<latitude>35.71303274216866</latitude>
+				<altitude>0</altitude>
+				<heading>-1.675960546222889e-05</heading>
+				<tilt>27.51155956696246</tilt>
+				<range>62.87367335011159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7940856455288,35.71301784914782,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

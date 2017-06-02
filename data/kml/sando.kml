@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sando.kml</name>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ffcf6fff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ffcf6fff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>フルーツサンド</name>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド1.png"><p>
+フルーツギフト&フルーツカフェ ツルザワ</p>]]></description>
+			<LookAt>
+				<longitude>135.572293723624</longitude>
+				<latitude>34.45158950885504</latitude>
+				<altitude>0</altitude>
+				<heading>-4.469333876704587e-05</heading>
+				<tilt>43.47473332000259</tilt>
+				<range>60.66074118251122</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.5723108156228,34.45149019723188,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド2.png"><p>
+ホットケーキパーラー Fru-Full</p>]]></description>
+			<LookAt>
+				<longitude>139.7389256612794</longitude>
+				<latitude>35.67030877969339</latitude>
+				<altitude>0</altitude>
+				<heading>4.416046668285273e-05</heading>
+				<tilt>29.34065618541097</tilt>
+				<range>92.32537706145237</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7388321660832,35.67034273833994,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド3.png"><p>
+果実園 リーベル</p>]]></description>
+			<LookAt>
+				<longitude>139.7137019274448</longitude>
+				<latitude>35.63484374767422</latitude>
+				<altitude>0</altitude>
+				<heading>9.110635818473416e-05</heading>
+				<tilt>23.14064682587502</tilt>
+				<range>279.4942377505382</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7135085592114,35.6349230798686,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド4.png"><p>
+CENTRE THE BAKERY</p>]]></description>
+			<LookAt>
+				<longitude>139.7665744182904</longitude>
+				<latitude>35.67558020127982</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7665350441279,35.67559387414157,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド5.png"><p>
+プチモンド</p>]]></description>
+			<LookAt>
+				<longitude>139.7181031195232</longitude>
+				<latitude>35.78103631570151</latitude>
+				<altitude>0</altitude>
+				<heading>1.141589176541933e-08</heading>
+				<tilt>0</tilt>
+				<range>999.8520479071555</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7181031195232,35.78103631570151,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド6.png"><p>
+フルーツパーラーヤオイソ</p>]]></description>
+			<LookAt>
+				<longitude>135.7502683475482</longitude>
+				<latitude>35.00360979844405</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3501133404720487</heading>
+				<tilt>25.72731807185518</tilt>
+				<range>99</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7500602001631,35.00349954543529,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/フルーツサンド/フルーツサンド7.png"><p>
+銀座千疋屋銀座本店フルーツパーラー</p>]]></description>
+			<LookAt>
+				<longitude>139.7640120618735</longitude>
+				<latitude>35.6718676580229</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002126560558884374</heading>
+				<tilt>28.56124108661238</tilt>
+				<range>166.0637902892072</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7638469342697,35.67179773200348,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

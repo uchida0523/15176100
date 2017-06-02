@@ -1,0 +1,4100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>select.kml</name>
+	<Style id="sh_鎌倉紅谷_クルミッ子">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/鎌倉紅谷_クルミッ子.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_御菓子所 石舟庵_石舟庵まんじゅう">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_御菓子所 石舟庵_石舟庵まんじゅう</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_御菓子所 石舟庵_石舟庵まんじゅう</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ピエール・エルメ・パリ 青山_ミス グラグラ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ピエール・エルメ・パリ 青山_ミス グラグラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_梅むら_豆かん">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/梅むら_豆かん.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ゝ月庵_絹ロール">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ゝ月庵_絹ロール.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_キャンティ_ネスラード">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_キャンティ_ネスラード</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_キャンティ_ネスラード</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_梅むら_豆かん">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_梅むら_豆かん</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_梅むら_豆かん</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_カフェ・ラ・ファミーユ_フロランタン">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_カフェ・ラ・ファミーユ_フロランタン</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_カフェ・ラ・ファミーユ_フロランタン</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_リンデンバウム_ラムレーズン">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/リンデンバウム_ラムレーズン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_洋菓子のカワグチ_アップルパイ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_洋菓子のカワグチ_アップルパイ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_洋菓子のカワグチ_アップルパイ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_近江屋洋菓子店_苺サンドショート">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/近江屋洋菓子店_苺サンドショート.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_近江屋洋菓子店_苺サンドショート">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_近江屋洋菓子店_苺サンドショート</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_近江屋洋菓子店_苺サンドショート</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_銀座鹿乃子_白玉だんご">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鹿乃子_白玉だんご.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_空也_空也もなか">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/空也_空也もなか.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_銀座みゆき館_和栗モンブラン">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座みゆき館_和栗モンブラン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_浅草満願堂_芋きん">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/浅草満願堂_芋きん.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_琉球銘菓 新垣ちんすこう_ちいるんこう">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/琉球銘菓 新垣ちんすこう_ちいるんこう.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鈴屋_福味甘納豆 渋皮付栗甘納豆.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_インド料理 ムンバイ_アップルナン&amp;バニラアイス">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/インド料理 ムンバイ_アップルナン&amp;バニラアイス.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_オザワ洋菓子店_イチゴシャンデ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/オザワ洋菓子店_イチゴシャンデ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_かぼちゃ家_フィナンシェ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/かぼちゃ家_フィナンシェ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ヒロタ_シュークリーム：チョコレート">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ヒロタ_シュークリーム：チョコレート</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ヒロタ_シュークリーム：チョコレート</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_くるみの木_和グラノーラ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/くるみの木_和グラノーラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_中村製餡所_あんこ屋さんのもなかセット">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_中村製餡所_あんこ屋さんのもなかセット</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_中村製餡所_あんこ屋さんのもなかセット</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_パティスリー オフク_あんドーナツ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_パティスリー オフク_あんドーナツ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_パティスリー オフク_あんドーナツ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_リンデンバウム_ラムレーズン">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/リンデンバウム_ラムレーズン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ハグジードーナツ_チョコレートシュガードーナツ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ハグジードーナツ_チョコレートシュガードーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_東肥軒_栗大福と芋羊羹">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/東肥軒_栗大福と芋羊羹.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_モロゾフ_デンマーククリームチーズケーキ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/モロゾフ_デンマーククリームチーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_キャンティ_ネスラード">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/キャンティ_ネスラード.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_オーボンヴュータン_バルブ・ア・パパ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/オーボンヴュータン_バルブ・ア・パパ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_銀座みゆき館_和栗モンブラン">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座みゆき館_和栗モンブラン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_京菓子 岬屋_竹栗蒸">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/京菓子 岬屋_竹栗蒸.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_mongo mongo_チーズケーキ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_mongo mongo_チーズケーキ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_mongo mongo_チーズケーキ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_バールモンドール_モンデリカ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/バールモンドール_モンデリカ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_入河屋_みかんソフトクリーム">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/入河屋_みかんソフトクリーム.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_パティスリー オフク_あんドーナツ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/パティスリー オフク_あんドーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_豊島屋_鳩サブレー">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/豊島屋_鳩サブレー.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_メルシーベイク_ガトーショコラ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_メルシーベイク_ガトーショコラ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_メルシーベイク_ガトーショコラ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_モンブラン_モンブラン">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/モンブラン_モンブラン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_つもん_スフレ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/つもん_スフレ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_メルシーベイク_ガトーショコラ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/メルシーベイク_ガトーショコラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_くるみの木_和グラノーラ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_くるみの木_和グラノーラ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_くるみの木_和グラノーラ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_麩嘉_麩饅頭">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_麩嘉_麩饅頭</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_麩嘉_麩饅頭</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_レピドール_ポルボローネス">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/レピドール_ポルボローネス.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_銀座鹿乃子_白玉だんご">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鹿乃子_白玉だんご.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_モロゾフ_デンマーククリームチーズケーキ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_モロゾフ_デンマーククリームチーズケーキ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_モロゾフ_デンマーククリームチーズケーキ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ピエール・エルメ・パリ 青山_ミス グラグラ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ピエール・エルメ・パリ 青山_ミス グラグラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ 紀ノ国屋_カスタードプリン">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ 紀ノ国屋_カスタードプリン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_小ざさ_最中">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_小ざさ_最中</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_小ざさ_最中</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_フロレスタ_ネイチャードーナツ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/フロレスタ_ネイチャードーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_オザワ洋菓子店_イチゴシャンデ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_オザワ洋菓子店_イチゴシャンデ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_オザワ洋菓子店_イチゴシャンデ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_カフェ・ラ・ファミーユ_フロランタン">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/カフェ・ラ・ファミーユ_フロランタン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_wagashi asobi_ドライフルーツの羊羹">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wagashi asobi_ドライフルーツの羊羹</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wagashi asobi_ドライフルーツの羊羹</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_キビカフェ_季節のタルト">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/キビカフェ_季節のタルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_グレイズ_チーズケーキ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/グレイズ_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_リンデンバウム_ラムレーズン">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_リンデンバウム_ラムレーズン</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_リンデンバウム_ラムレーズン</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_デメル_ザッハトルテ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/デメル_ザッハトルテ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_モク_ミントブラウニーズ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_モク_ミントブラウニーズ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_モク_ミントブラウニーズ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_パティスリー オフク_あんドーナツ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/パティスリー オフク_あんドーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_空也_空也もなか">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_空也_空也もなか</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_空也_空也もなか</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_abeki_チーズケーキ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_abeki_チーズケーキ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_abeki_チーズケーキ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_小ざさ_最中">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/小ざさ_最中.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ブルーデル_モカエクレア">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ブルーデル_モカエクレア.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ベイク チーズタルト_焼きたてチーズタルト">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ベイク チーズタルト_焼きたてチーズタルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_麩嘉_麩饅頭">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/麩嘉_麩饅頭.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_京菓子司 平安殿_栗田焼">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/京菓子司 平安殿_栗田焼.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_豊島屋_鳩サブレー">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_豊島屋_鳩サブレー</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_豊島屋_鳩サブレー</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_カカオサンパカ 丸の内本店_ジャラッツカカオ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/カカオサンパカ 丸の内本店_ジャラッツカカオ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_銀座鹿乃子_白玉だんご">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_銀座鹿乃子_白玉だんご</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_銀座鹿乃子_白玉だんご</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_mongo mongo_チーズケーキ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/mongo mongo_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_モロゾフ_デンマーククリームチーズケーキ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/モロゾフ_デンマーククリームチーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_東肥軒_栗大福と芋羊羹">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_東肥軒_栗大福と芋羊羹</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_東肥軒_栗大福と芋羊羹</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_洋菓子のカワグチ_アップルパイ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/洋菓子のカワグチ_アップルパイ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_フロレスタ_ネイチャードーナツ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_フロレスタ_ネイチャードーナツ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_フロレスタ_ネイチャードーナツ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_メルシーベイク_ガトーショコラ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/メルシーベイク_ガトーショコラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ 紀ノ国屋_カスタードプリン">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ 紀ノ国屋_カスタードプリン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_モク_ミントブラウニーズ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/モク_ミントブラウニーズ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ブルーデル_モカエクレア">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ブルーデル_モカエクレア</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ブルーデル_モカエクレア</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_キャンティ_ネスラード">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/キャンティ_ネスラード.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_入河屋_みかんソフトクリーム">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/入河屋_みかんソフトクリーム.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ 紀ノ国屋_カスタードプリン">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ 紀ノ国屋_カスタードプリン</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ 紀ノ国屋_カスタードプリン</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_デメル_ザッハトルテ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_デメル_ザッハトルテ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_デメル_ザッハトルテ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ハグジードーナツ_チョコレートシュガードーナツ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ハグジードーナツ_チョコレートシュガードーナツ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ハグジードーナツ_チョコレートシュガードーナツ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ゝ月庵_絹ロール">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ゝ月庵_絹ロール</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ゝ月庵_絹ロール</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_キビカフェ_季節のタルト">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_キビカフェ_季節のタルト</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_キビカフェ_季節のタルト</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_オザワ洋菓子店_イチゴシャンデ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/オザワ洋菓子店_イチゴシャンデ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ハドソンマーケットベーカーズ_フローズンヨーグルト">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ハドソンマーケットベーカーズ_フローズンヨーグルト</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ハドソンマーケットベーカーズ_フローズンヨーグルト</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_豊島屋_鳩サブレー">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/豊島屋_鳩サブレー.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_銀座鈴屋_福味甘納豆 大納言">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_銀座鈴屋_福味甘納豆 大納言</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_銀座鈴屋_福味甘納豆 大納言</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_インド料理 ムンバイ_アップルナン&amp;バニラアイス">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_インド料理 ムンバイ_アップルナン&amp;バニラアイス</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_インド料理 ムンバイ_アップルナン&amp;バニラアイス</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_パティスリーランブリール_モンクール">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/パティスリーランブリール_モンクール.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_御菓子所 石舟庵_石舟庵まんじゅう">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/御菓子所 石舟庵_石舟庵まんじゅう.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_琉球銘菓 新垣ちんすこう_ちいるんこう">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_琉球銘菓 新垣ちんすこう_ちいるんこう</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_琉球銘菓 新垣ちんすこう_ちいるんこう</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_かぼちゃ家_フィナンシェ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_かぼちゃ家_フィナンシェ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_かぼちゃ家_フィナンシェ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_八天堂_くりーむパン 小倉">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_八天堂_くりーむパン 小倉</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_八天堂_くりーむパン 小倉</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_浅草満願堂_芋きん">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_浅草満願堂_芋きん</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_浅草満願堂_芋きん</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_レティシア_塩チーズ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/レティシア_塩チーズ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_京菓子司 平安殿_栗田焼">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_京菓子司 平安殿_栗田焼</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_京菓子司 平安殿_栗田焼</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_フロレスタ_ネイチャードーナツ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/フロレスタ_ネイチャードーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_とらや_残月">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_とらや_残月</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_とらや_残月</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_小ざさ_最中">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/小ざさ_最中.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_京菓子 岬屋_竹栗蒸">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_京菓子 岬屋_竹栗蒸</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_京菓子 岬屋_竹栗蒸</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ピエール・エルメ・パリ 青山_ミス グラグラ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ピエール・エルメ・パリ 青山_ミス グラグラ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ピエール・エルメ・パリ 青山_ミス グラグラ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_カカオサンパカ 丸の内本店_ジャラッツカカオ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_カカオサンパカ 丸の内本店_ジャラッツカカオ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_カカオサンパカ 丸の内本店_ジャラッツカカオ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_御菓子司 扇屋_江ノ電もなか">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_御菓子司 扇屋_江ノ電もなか</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_御菓子司 扇屋_江ノ電もなか</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_八天堂_くりーむパン 小倉">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/八天堂_くりーむパン 小倉.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ハグジードーナツ_チョコレートシュガードーナツ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ハグジードーナツ_チョコレートシュガードーナツ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_モンブラン_モンブラン">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_モンブラン_モンブラン</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_モンブラン_モンブラン</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ヒロタ_シュークリーム：チョコレート">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ヒロタ_シュークリーム：チョコレート.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_麩嘉_麩饅頭">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/麩嘉_麩饅頭.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_梅むら_豆かん">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/梅むら_豆かん.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_abeki_チーズケーキ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/abeki_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_モンブラン_モンブラン">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/モンブラン_モンブラン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_京菓子 岬屋_竹栗蒸">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/京菓子 岬屋_竹栗蒸.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_とらや_残月">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/とらや_残月.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_六花亭_マルセイバターサンド">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/六花亭_マルセイバターサンド.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_京菓子司 平安殿_栗田焼">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/京菓子司 平安殿_栗田焼.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_銀座ウエスト本店_ゴルゴンゾーラパフ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_銀座ウエスト本店_ゴルゴンゾーラパフ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_銀座ウエスト本店_ゴルゴンゾーラパフ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_くるみの木_和グラノーラ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/くるみの木_和グラノーラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_バールモンドール_モンデリカ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_バールモンドール_モンデリカ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_バールモンドール_モンデリカ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ベイク チーズタルト_焼きたてチーズタルト">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ベイク チーズタルト_焼きたてチーズタルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_キビカフェ_季節のタルト">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/キビカフェ_季節のタルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_六花亭_マルセイバターサンド">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_六花亭_マルセイバターサンド</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_六花亭_マルセイバターサンド</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_カフェ・ラ・ファミーユ_フロランタン">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/カフェ・ラ・ファミーユ_フロランタン.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_銀座鈴屋_福味甘納豆 大納言">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鈴屋_福味甘納豆 大納言.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_銀座みゆき館_和栗モンブラン">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_銀座みゆき館_和栗モンブラン</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_銀座みゆき館_和栗モンブラン</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_バールモンドール_モンデリカ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/バールモンドール_モンデリカ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_オーボンヴュータン_バルブ・ア・パパ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/オーボンヴュータン_バルブ・ア・パパ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_とらや_残月">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/とらや_残月.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_デメル_ザッハトルテ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/デメル_ザッハトルテ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_インド料理 ムンバイ_アップルナン&amp;バニラアイス">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/インド料理 ムンバイ_アップルナン&amp;バニラアイス.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_今西軒_あんてぃーく">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/今西軒_あんてぃーく.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_銀座鈴屋_福味甘納豆 大納言">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鈴屋_福味甘納豆 大納言.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_グレイズ_チーズケーキ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_グレイズ_チーズケーキ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_グレイズ_チーズケーキ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ヒロタ_シュークリーム：チョコレート">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ヒロタ_シュークリーム：チョコレート.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_銀座ウエスト本店_ゴルゴンゾーラパフ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座ウエスト本店_ゴルゴンゾーラパフ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_wagashi asobi_ドライフルーツの羊羹">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/wagashi asobi_ドライフルーツの羊羹.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_東肥軒_栗大福と芋羊羹">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/東肥軒_栗大福と芋羊羹.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_御菓子司 扇屋_江ノ電もなか">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/御菓子司 扇屋_江ノ電もなか.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_パティスリーランブリール_モンクール">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_パティスリーランブリール_モンクール</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_パティスリーランブリール_モンクール</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_mongo mongo_チーズケーキ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/mongo mongo_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_レティシア_塩チーズ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/レティシア_塩チーズ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_今西軒_あんてぃーく">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_今西軒_あんてぃーく</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_今西軒_あんてぃーく</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_モク_ミントブラウニーズ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/モク_ミントブラウニーズ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_グレイズ_チーズケーキ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/グレイズ_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_入河屋_みかんソフトクリーム">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_入河屋_みかんソフトクリーム</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_入河屋_みかんソフトクリーム</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_御菓子所 石舟庵_石舟庵まんじゅう">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/御菓子所 石舟庵_石舟庵まんじゅう.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_パティスリーランブリール_モンクール">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/パティスリーランブリール_モンクール.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ブルーデル_モカエクレア">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ブルーデル_モカエクレア.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_鎌倉紅谷_クルミッ子">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/鎌倉紅谷_クルミッ子.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_近江屋洋菓子店_苺サンドショート">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/近江屋洋菓子店_苺サンドショート.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ハドソンマーケットベーカーズ_フローズンヨーグルト">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/ハドソンマーケットベーカーズ_フローズンヨーグルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_レティシア_塩チーズ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_レティシア_塩チーズ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_レティシア_塩チーズ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_つもん_スフレ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_つもん_スフレ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_つもん_スフレ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_つもん_スフレ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/つもん_スフレ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_wagashi asobi_ドライフルーツの羊羹">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/wagashi asobi_ドライフルーツの羊羹.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_洋菓子のカワグチ_アップルパイ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/洋菓子のカワグチ_アップルパイ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ベイク チーズタルト_焼きたてチーズタルト">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ベイク チーズタルト_焼きたてチーズタルト</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ベイク チーズタルト_焼きたてチーズタルト</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_六花亭_マルセイバターサンド">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/六花亭_マルセイバターサンド.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_カカオサンパカ 丸の内本店_ジャラッツカカオ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/カカオサンパカ 丸の内本店_ジャラッツカカオ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_八天堂_くりーむパン 小倉">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/八天堂_くりーむパン 小倉.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_浅草満願堂_芋きん">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/浅草満願堂_芋きん.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_レピドール_ポルボローネス">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_レピドール_ポルボローネス</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_レピドール_ポルボローネス</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_オーボンヴュータン_バルブ・ア・パパ">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_オーボンヴュータン_バルブ・ア・パパ</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_オーボンヴュータン_バルブ・ア・パパ</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_鎌倉紅谷_クルミッ子">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_鎌倉紅谷_クルミッ子</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_鎌倉紅谷_クルミッ子</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_御菓子司 扇屋_江ノ電もなか">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/御菓子司 扇屋_江ノ電もなか.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_今西軒_あんてぃーく">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/今西軒_あんてぃーく.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_レピドール_ポルボローネス">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/レピドール_ポルボローネス.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_銀座ウエスト本店_ゴルゴンゾーラパフ">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座ウエスト本店_ゴルゴンゾーラパフ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_空也_空也もなか">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/空也_空也もなか.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_abeki_チーズケーキ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/abeki_チーズケーキ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ハドソンマーケットベーカーズ_フローズンヨーグルト">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ハドソンマーケットベーカーズ_フローズンヨーグルト.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_かぼちゃ家_フィナンシェ">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/かぼちゃ家_フィナンシェ.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_中村製餡所_あんこ屋さんのもなかセット">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/中村製餡所_あんこ屋さんのもなかセット.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_中村製餡所_あんこ屋さんのもなかセット">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/中村製餡所_あんこ屋さんのもなかセット.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆">
+		<IconStyle>
+			<Icon>
+				<href>../pin_icon_image/選出/銀座鈴屋_福味甘納豆 渋皮付栗甘納豆.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_琉球銘菓 新垣ちんすこう_ちいるんこう">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/琉球銘菓 新垣ちんすこう_ちいるんこう.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ゝ月庵_絹ロール">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>../pin_icon_image/選出/ゝ月庵_絹ロール.jpg</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff8000</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffff8000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>選出</name>
+		<Placemark>
+			<name>　</name>
+			<description>イル・ブルー・シュル・ラ・セーヌ</description>
+			<LookAt>
+				<longitude>139.6987330892747</longitude>
+				<latitude>35.64950259935672</latitude>
+				<altitude>0</altitude>
+				<heading>-6.181099509620243e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.154128769582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_イル・ブルー・シュル・ラ・セーヌ_シュー・ア・ラ・クレーム</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6987330892747,35.64950259935672,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>入河屋
+みかんソフトクリーム</description>
+			<LookAt>
+				<longitude>137.5463060112477</longitude>
+				<latitude>34.79286200363802</latitude>
+				<altitude>0</altitude>
+				<heading>6.418098541709495e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9999677839336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_入河屋_みかんソフトクリーム</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.5463060112477,34.79286200363801,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>今西軒
+あんてぃーく</description>
+			<LookAt>
+				<longitude>135.7589298397534</longitude>
+				<latitude>34.99543351369006</latitude>
+				<altitude>0</altitude>
+				<heading>-3.293594775397412e-09</heading>
+				<tilt>0</tilt>
+				<range>1001.512863394663</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_今西軒_あんてぃーく</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7589298397534,34.99543351369007,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>アンティカ・ドルチェリア・ボナイユート
+チョコレート バニラ</description>
+			<LookAt>
+				<longitude>135.2756594809875</longitude>
+				<latitude>34.72737784863685</latitude>
+				<altitude>0</altitude>
+				<heading>-2.588335399775009e-10</heading>
+				<tilt>0</tilt>
+				<range>1008.178458830766</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_アンティカ・ドルチェリア・ボナイユート_チョコレート バニラ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.2756594809875,34.72737784863685,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>abeki
+チーズケーキ</description>
+			<LookAt>
+				<longitude>130.4005351000237</longitude>
+				<latitude>33.5774754912453</latitude>
+				<altitude>0</altitude>
+				<heading>1.313569083444432e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.0000223327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_abeki_チーズケーキ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.4005351000237,33.57747549124529,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>浅草満願堂(本店)
+芋きん</description>
+			<LookAt>
+				<longitude>139.7949499983381</longitude>
+				<latitude>35.71181900208582</latitude>
+				<altitude>0</altitude>
+				<heading>-9.700691778463726e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000035248754</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_浅草満願堂_芋きん</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7949499983381,35.71181900208582,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>wagashi asobi
+ドライフルーツの羊羹</description>
+			<LookAt>
+				<longitude>139.6968880159111</longitude>
+				<latitude>35.60164863699912</latitude>
+				<altitude>0</altitude>
+				<heading>-1.754127940701718e-07</heading>
+				<tilt>0</tilt>
+				<range>1113.477951577795</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wagashi asobi_ドライフルーツの羊羹</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6968880159111,35.60164863699912,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>六花亭(帯広本店)
+マルセイバターサンド</description>
+			<LookAt>
+				<longitude>143.2024717314129</longitude>
+				<latitude>42.92224933722386</latitude>
+				<altitude>0</altitude>
+				<heading>-1.798049715158748e-07</heading>
+				<tilt>0</tilt>
+				<range>1072.595935805633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_六花亭_マルセイバターサンド</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>143.2024717314129,42.92224933722386,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>レピドール
+ポルボローネス</description>
+			<LookAt>
+				<longitude>139.6664670159606</longitude>
+				<latitude>35.597098015402</latitude>
+				<altitude>0</altitude>
+				<heading>5.98875864581342e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.25114555336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_レピドール_ポルボローネス</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6664670159606,35.59709801540201,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>レティシア
+塩チーズ</description>
+			<LookAt>
+				<longitude>139.6846840364339</longitude>
+				<latitude>35.64058809159234</latitude>
+				<altitude>0</altitude>
+				<heading>-1.321944756142598e-08</heading>
+				<tilt>0</tilt>
+				<range>1041.926648015872</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_レティシア_塩チーズ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6846840364339,35.64058809159234,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>リンデンバウム(本店)
+ラムレーズン</description>
+			<LookAt>
+				<longitude>139.5934258205637</longitude>
+				<latitude>35.61614754935367</latitude>
+				<altitude>0</altitude>
+				<heading>-7.070375226031708e-06</heading>
+				<tilt>0</tilt>
+				<range>29097.50600184659</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_リンデンバウム_ラムレーズン</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5934258205637,35.61614754935368,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>インド料理 ムンバイ
+アップルナン&amp;バニラアイス</description>
+			<LookAt>
+				<longitude>139.758032730224</longitude>
+				<latitude>35.66783481561522</latitude>
+				<altitude>0</altitude>
+				<heading>0.09351606186218801</heading>
+				<tilt>8.841738831964909</tilt>
+				<range>3119.385286347861</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_インド料理 ムンバイ_アップルナン&amp;バニラアイス</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7666368260579,35.67032997112899,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>琉球銘菓　新垣ちんすこう(首里城寒川店)
+ちいるんこう</description>
+			<LookAt>
+				<longitude>127.7213549941584</longitude>
+				<latitude>26.17615784290301</latitude>
+				<altitude>0</altitude>
+				<heading>-2.576917208468555e-09</heading>
+				<tilt>0</tilt>
+				<range>15536.42743066015</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_琉球銘菓 新垣ちんすこう_ちいるんこう</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.7117310750902,26.21444787045259,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>メルシーベイク
+ガトーショコラ</description>
+			<LookAt>
+				<longitude>139.6554361058871</longitude>
+				<latitude>35.64347283412916</latitude>
+				<altitude>0</altitude>
+				<heading>2.289243480028135e-07</heading>
+				<tilt>0</tilt>
+				<range>1200.092920086175</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_メルシーベイク_ガトーショコラ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6554361058871,35.64347283412917,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>モク
+ミントブラウニーズ</description>
+			<LookAt>
+				<longitude>130.5506151026501</longitude>
+				<latitude>31.5937789067584</latitude>
+				<altitude>0</altitude>
+				<heading>1.2942894123999e-05</heading>
+				<tilt>30.21712096577935</tilt>
+				<range>500.0000221637445</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_モク_ミントブラウニーズ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.5506151026501,31.59377890675841,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>つもん
+スフレ</description>
+			<LookAt>
+				<longitude>130.4058371992364</longitude>
+				<latitude>33.58121640197432</latitude>
+				<altitude>0</altitude>
+				<heading>-4.223490367062219e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.321714103539</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_つもん_スフレ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.4058371992364,33.58121640197432,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>デメル(新宿伊勢丹)
+ザッハトルテ</description>
+			<LookAt>
+				<longitude>139.7042409796653</longitude>
+				<latitude>35.69182569418268</latitude>
+				<altitude>0</altitude>
+				<heading>-1.186377429510834e-08</heading>
+				<tilt>0</tilt>
+				<range>999.9939990298672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_デメル_ザッハトルテ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7042409796653,35.69182569418268,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ゝ月庵
+絹ロール</description>
+			<LookAt>
+				<longitude>142.5083809467844</longitude>
+				<latitude>43.69636628693416</latitude>
+				<altitude>0</altitude>
+				<heading>-3.676327141046792e-08</heading>
+				<tilt>0</tilt>
+				<range>1114.401318171166</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ゝ月庵_絹ロール</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>142.5083809467844,43.69636628693417,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>東肥軒
+栗大福と芋羊羹</description>
+			<LookAt>
+				<longitude>139.6483224796704</longitude>
+				<latitude>35.65539320190002</latitude>
+				<altitude>0</altitude>
+				<heading>8.583865446505263e-09</heading>
+				<tilt>0</tilt>
+				<range>1001.194455966047</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_東肥軒_栗大福と芋羊羹</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6483224796704,35.65539320190002,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>豊島屋(本店)
+鳩サブレー</description>
+			<LookAt>
+				<longitude>139.5525621875486</longitude>
+				<latitude>35.32045712547456</latitude>
+				<altitude>0</altitude>
+				<heading>-7.314404416244465e-06</heading>
+				<tilt>28.72664191962996</tilt>
+				<range>153.5258289355251</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_豊島屋_鳩サブレー</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5525621875486,35.32045712547456,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>とらや(銀座店)
+残月</description>
+			<LookAt>
+				<longitude>139.7624836664069</longitude>
+				<latitude>35.66917053785652</latitude>
+				<altitude>0</altitude>
+				<heading>-2.645484398249663e-06</heading>
+				<tilt>24.77834709500908</tilt>
+				<range>280.6463045807784</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_とらや_残月</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7624836664069,35.66917053785652,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>中村製餡所
+あんこ屋さんのもなかセット</description>
+			<LookAt>
+				<longitude>140.2487412001393</longitude>
+				<latitude>36.37815220321274</latitude>
+				<altitude>0</altitude>
+				<heading>8.261808840569629e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000770629036</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_中村製餡所_あんこ屋さんのもなかセット</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.2487412001393,36.37815220321274,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>バールモンドール(南6条店)
+モンデリカ</description>
+			<LookAt>
+				<longitude>141.3242241960031</longitude>
+				<latitude>43.05003519829288</latitude>
+				<altitude>0</altitude>
+				<heading>-2.728438833493478e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9750305902675</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_バールモンドール_モンデリカ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.3242241960031,43.05003519829288,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ハグジードーナツ
+チョコレートシュガードーナツ</description>
+			<LookAt>
+				<longitude>139.4537798920239</longitude>
+				<latitude>35.65102979055276</latitude>
+				<altitude>0</altitude>
+				<heading>-4.657960497659497e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.033131160125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ハグジードーナツ_チョコレートシュガードーナツ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4537798920239,35.65102979055276,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>八天堂(三原港町店)
+くりーむパン 小倉</description>
+			<LookAt>
+				<longitude>133.0804099980589</longitude>
+				<latitude>34.39916600101271</latitude>
+				<altitude>0</altitude>
+				<heading>-1.096623448621806e-09</heading>
+				<tilt>0</tilt>
+				<range>999.8465944110238</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_八天堂_くりーむパン 小倉</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.0804099980589,34.39916600101271,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>パティスリー オフク
+あんドーナツ</description>
+			<LookAt>
+				<longitude>136.6572632957385</longitude>
+				<latitude>36.56138650694402</latitude>
+				<altitude>0</altitude>
+				<heading>-2.538489746807114e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000007180168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_パティスリー オフク_あんドーナツ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.6572632957385,36.56138650694402,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>パティスリー ランブリール
+モンクール</description>
+			<LookAt>
+				<longitude>139.0254194167909</longitude>
+				<latitude>37.87409460194848</latitude>
+				<altitude>0</altitude>
+				<heading>1.030843534755245e-08</heading>
+				<tilt>0</tilt>
+				<range>999.975309881301</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_パティスリーランブリール_モンクール</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0254194167909,37.87409460194849,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ハドソンマーケットベーカーズ
+フローズンヨーグルト</description>
+			<LookAt>
+				<longitude>139.7359137030406</longitude>
+				<latitude>35.6559894015462</latitude>
+				<altitude>0</altitude>
+				<heading>1.772434068448537e-09</heading>
+				<tilt>0</tilt>
+				<range>999.7627816315772</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ハドソンマーケットベーカーズ_フローズンヨーグルト</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7359137030406,35.6559894015462,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ピエール・エルメ・パリ 青山
+ミス グラグラ</description>
+			<LookAt>
+				<longitude>139.709680700598</longitude>
+				<latitude>35.66278960526634</latitude>
+				<altitude>0</altitude>
+				<heading>3.486237791898975e-10</heading>
+				<tilt>0</tilt>
+				<range>999.7777099402774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ピエール・エルメ・パリ 青山_ミス グラグラ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.709680700598,35.66278960526634,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ヒロタ(新宿西口店)
+シュークリーム:チョコレート</description>
+			<LookAt>
+				<longitude>139.699604903141</longitude>
+				<latitude>35.69131239971714</latitude>
+				<altitude>0</altitude>
+				<heading>1.832527468600108e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9699495377814</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ヒロタ_シュークリーム：チョコレート</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.699604903141,35.69131239971714,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>麩嘉(本店)
+麩饅頭</description>
+			<LookAt>
+				<longitude>135.75479409931</longitude>
+				<latitude>35.01892730051829</latitude>
+				<altitude>0</altitude>
+				<heading>-3.959726967328449e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000008123266</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_麩嘉_麩饅頭</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.75479409931,35.01892730051829,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ブルーデル
+モカエクレア</description>
+			<LookAt>
+				<longitude>136.9324785992581</longitude>
+				<latitude>35.13693370053903</latitude>
+				<altitude>0</altitude>
+				<heading>-4.269608409943439e-10</heading>
+				<tilt>0</tilt>
+				<range>998.8439195291297</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ブルーデル_モカエクレア</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.9324785992581,35.13693370053903,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>フロレスタ(学芸大学店)
+ネイチャードーナツ</description>
+			<LookAt>
+				<longitude>139.6842691879301</longitude>
+				<latitude>35.62933311152661</latitude>
+				<altitude>0</altitude>
+				<heading>-7.03115045656159e-09</heading>
+				<tilt>0</tilt>
+				<range>999.8773710805564</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_フロレスタ_ネイチャードーナツ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6842691879301,35.62933311152661,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>ベイク チーズタルト
+焼きたてチーズタルト</description>
+			<LookAt>
+				<longitude>139.668187000746</longitude>
+				<latitude>35.60690500148409</latitude>
+				<altitude>0</altitude>
+				<heading>4.343333667459764e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000181326175</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ベイク チーズタルト_焼きたてチーズタルト</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.668187000746,35.60690500148409,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>モロゾフ(松屋銀座店)
+デンマーククリームチーズケーキ</description>
+			<LookAt>
+				<longitude>139.7664075963196</longitude>
+				<latitude>35.67219800436331</latitude>
+				<altitude>0</altitude>
+				<heading>-2.1461492435205e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.00002350697</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_モロゾフ_デンマーククリームチーズケーキ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7664075963196,35.67219800436331,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>mongo mongo
+チーズケーキ</description>
+			<LookAt>
+				<longitude>133.6981379835394</longitude>
+				<latitude>33.58626501144428</latitude>
+				<altitude>0</altitude>
+				<heading>-9.10586444193642e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000430908898</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_mongo mongo_チーズケーキ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>133.6981379835394,33.58626501144428,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>モンブラン
+モンブラン</description>
+			<LookAt>
+				<longitude>139.6688525864282</longitude>
+				<latitude>35.60833550064454</latitude>
+				<altitude>0</altitude>
+				<heading>-4.146304666052461e-09</heading>
+				<tilt>0</tilt>
+				<range>1002.086213537399</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_モンブラン_モンブラン</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6688525864282,35.60833550064454,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>洋菓子のカワグチ
+アップルパイ</description>
+			<LookAt>
+				<longitude>130.7682571040005</longitude>
+				<latitude>33.86362041982616</latitude>
+				<altitude>0</altitude>
+				<heading>-1.742047049021834e-09</heading>
+				<tilt>0</tilt>
+				<range>1011.378961711396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_洋菓子のカワグチ_アップルパイ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.7682571040005,33.86362041982616,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>梅むら
+豆かん</description>
+			<LookAt>
+				<longitude>139.7967207333038</longitude>
+				<latitude>35.71675147122676</latitude>
+				<altitude>0</altitude>
+				<heading>1.093856366048933e-10</heading>
+				<tilt>0</tilt>
+				<range>1008.157050177766</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_梅むら_豆かん</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7967207333039,35.71675147122676,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>近江屋洋菓子店(神田店)
+苺サンドショート</description>
+			<LookAt>
+				<longitude>139.7677586322396</longitude>
+				<latitude>35.69645411140553</latitude>
+				<altitude>0</altitude>
+				<heading>-4.417249758256976e-09</heading>
+				<tilt>0</tilt>
+				<range>1018.283929393972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_近江屋洋菓子店_苺サンドショート</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7677586322396,35.69645411140553,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>オーボンヴュータン(尾山台店)
+バルブ・ア・パパ</description>
+			<LookAt>
+				<longitude>139.6517264363109</longitude>
+				<latitude>35.60406193177275</latitude>
+				<altitude>0</altitude>
+				<heading>1.107710862241388e-09</heading>
+				<tilt>0</tilt>
+				<range>1013.411646057935</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_オーボンヴュータン_バルブ・ア・パパ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6517264363109,35.60406193177275,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>御菓子処 石舟庵(川奈店)
+石舟庵饅頭</description>
+			<LookAt>
+				<longitude>139.1160747993652</longitude>
+				<latitude>34.95451930624337</latitude>
+				<altitude>0</altitude>
+				<heading>1.406429830146314e-08</heading>
+				<tilt>0</tilt>
+				<range>1026.005768430471</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_御菓子所 石舟庵_石舟庵まんじゅう</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.1160747993652,34.95451930624337,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>小ざさ
+最中</description>
+			<LookAt>
+				<longitude>139.5791583250272</longitude>
+				<latitude>35.70392159861606</latitude>
+				<altitude>0</altitude>
+				<heading>-6.007600251746409e-09</heading>
+				<tilt>0</tilt>
+				<range>1007.812340028751</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_小ざさ_最中</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5791583250272,35.70392159861606,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>オザワ洋菓子店
+イチゴシャンデ</description>
+			<LookAt>
+				<longitude>139.7644615826618</longitude>
+				<latitude>35.70536143829487</latitude>
+				<altitude>0</altitude>
+				<heading>1.184872367181414e-05</heading>
+				<tilt>0</tilt>
+				<range>1034.996468362229</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_オザワ洋菓子店_イチゴシャンデ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7644615826618,35.70536143829487,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>御菓子司 扇屋
+江ノ電もなか</description>
+			<LookAt>
+				<longitude>140.0460754680988</longitude>
+				<latitude>35.73226731044841</latitude>
+				<altitude>0</altitude>
+				<heading>-3.831251641525413e-09</heading>
+				<tilt>0</tilt>
+				<range>1033.250866619575</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_御菓子司 扇屋_江ノ電もなか</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.0460754680988,35.73226731044841,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>カカオサンパカ(丸の内本店)
+ジャラッツカカオ</description>
+			<LookAt>
+				<longitude>139.7625218752309</longitude>
+				<latitude>35.67863142638448</latitude>
+				<altitude>0</altitude>
+				<heading>-8.02787904374799e-10</heading>
+				<tilt>0</tilt>
+				<range>1004.721252200771</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_カカオサンパカ 丸の内本店_ジャラッツカカオ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7625218752309,35.67863142638449,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>カフェ・ラ・ファミーユ
+フロランタン</description>
+			<LookAt>
+				<longitude>139.8813599975679</longitude>
+				<latitude>36.30106999350787</latitude>
+				<altitude>0</altitude>
+				<heading>-1.439830743189171e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9998820805368</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_カフェ・ラ・ファミーユ_フロランタン</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8813599975679,36.30106999350787,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>かぼちゃ家
+フィナンシェ</description>
+			<LookAt>
+				<longitude>130.4282370056141</longitude>
+				<latitude>33.55463099992933</latitude>
+				<altitude>0</altitude>
+				<heading>2.283784566806152e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.887063350164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_かぼちゃ家_フィナンシェ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>130.4282370056141,33.55463099992933,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>鎌倉紅谷(八幡宮前本店)
+クルミっ子</description>
+			<LookAt>
+				<longitude>139.5549208802094</longitude>
+				<latitude>35.32318696550621</latitude>
+				<altitude>0</altitude>
+				<heading>4.139479195706041e-09</heading>
+				<tilt>0</tilt>
+				<range>1012.958912495485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_鎌倉紅谷_クルミッ子</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5549208802094,35.32318696550621,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>紀ノ国屋インターナショナル
+カスタードプリン</description>
+			<LookAt>
+				<longitude>139.7107471976192</longitude>
+				<latitude>35.66375230208713</latitude>
+				<altitude>0</altitude>
+				<heading>-1.388064035193671e-09</heading>
+				<tilt>0</tilt>
+				<range>999.6706043563373</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ 紀ノ国屋_カスタードプリン</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7107471976192,35.66375230208713,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>キビカフェ/コマグラカフェ
+季節のタルト</description>
+			<LookAt>
+				<longitude>139.5775019971655</longitude>
+				<latitude>35.70572699531515</latitude>
+				<altitude>0</altitude>
+				<heading>-1.654247837040034e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000013732732</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_キビカフェ_季節のタルト</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5775019971655,35.70572699531515,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>キャンティ(飯倉片町本店)
+ネスラード</description>
+			<LookAt>
+				<longitude>139.7385475435276</longitude>
+				<latitude>35.6607562679874</latitude>
+				<altitude>0</altitude>
+				<heading>2.537594420664282e-08</heading>
+				<tilt>0</tilt>
+				<range>999.99952349741</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_キャンティ_ネスラード</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7385475435276,35.6607562679874,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>京菓子司 平安殿
+栗田焼</description>
+			<LookAt>
+				<longitude>135.7825234263249</longitude>
+				<latitude>35.01055907720407</latitude>
+				<altitude>0</altitude>
+				<heading>1.969663444800771e-09</heading>
+				<tilt>0</tilt>
+				<range>1022.074782504946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_京菓子司 平安殿_栗田焼</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7825234263248,35.01055907720407,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>京菓子司 岬屋
+竹栗蒸</description>
+			<LookAt>
+				<longitude>139.6849938997526</longitude>
+				<latitude>35.66354039097857</latitude>
+				<altitude>0</altitude>
+				<heading>-1.442572381324593e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000076061798</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_京菓子 岬屋_竹栗蒸</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6849938997526,35.66354039097857,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>銀座ウエスト本店
+ゴルゴンゾーラパフ</description>
+			<LookAt>
+				<longitude>139.760772794928</longitude>
+				<latitude>35.6704221072776</latitude>
+				<altitude>0</altitude>
+				<heading>-2.957585076074198e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000004322616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_銀座ウエスト本店_ゴルゴンゾーラパフ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.760772794928,35.6704221072776,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>銀座鹿乃子
+白玉だんご</description>
+			<LookAt>
+				<longitude>139.7644978952293</longitude>
+				<latitude>35.67131968689368</latitude>
+				<altitude>0</altitude>
+				<heading>-2.781945304899739e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9766240664146</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_銀座鹿乃子_白玉だんご</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7644978952293,35.67131968689368,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>銀座鈴屋(銀座本店)
+渋皮付栗甘納豆</description>
+			<LookAt>
+				<longitude>139.7604396666729</longitude>
+				<latitude>35.66987409871986</latitude>
+				<altitude>0</altitude>
+				<heading>1.174087019723718</heading>
+				<tilt>27.51083233602077</tilt>
+				<range>732.0529435990132</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_銀座鈴屋_福味甘納豆 渋皮付栗甘納豆</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.760162181605,35.66934851460281,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>銀座みゆき館(銀座本店)
+和栗モンブラン</description>
+			<LookAt>
+				<longitude>139.7622106211311</longitude>
+				<latitude>35.67126194132453</latitude>
+				<altitude>0</altitude>
+				<heading>-1.186662407210293e-08</heading>
+				<tilt>0</tilt>
+				<range>1015.407057340565</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_銀座みゆき館_和栗モンブラン</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7622106211311,35.67126194132452,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>空也
+空也もなか</description>
+			<LookAt>
+				<longitude>139.7627287927452</longitude>
+				<latitude>35.67082418794632</latitude>
+				<altitude>0</altitude>
+				<heading>-4.230500309580164e-09</heading>
+				<tilt>0</tilt>
+				<range>999.999985788966</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_空也_空也もなか</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7627287927451,35.67082418794632,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>くるみの木 cage
+和グラノーラ</description>
+			<LookAt>
+				<longitude>135.8140241882114</longitude>
+				<latitude>34.69201932975321</latitude>
+				<altitude>0</altitude>
+				<heading>-6.709615461593717e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9998303110546</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_くるみの木_和グラノーラ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.8140241882114,34.69201932975321,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>グレイズ
+チーズケーキ</description>
+			<LookAt>
+				<longitude>132.7676136113984</longitude>
+				<latitude>33.83684033838887</latitude>
+				<altitude>0</altitude>
+				<heading>-1.465925508656598e-07</heading>
+				<tilt>0</tilt>
+				<range>1146.685910511485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_グレイズ_チーズケーキ</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>132.7676136113984,33.83684033838887,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description>銀座 鈴屋
+福味甘納豆 大納言</description>
+			<LookAt>
+				<longitude>139.7604396666729</longitude>
+				<latitude>35.66987409871986</latitude>
+				<altitude>0</altitude>
+				<heading>1.174087019723718</heading>
+				<tilt>27.51083233602077</tilt>
+				<range>732.0529435990132</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_銀座鈴屋_福味甘納豆 大納言</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7603280044408,35.66924299820802,4917</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>remon.kml</name>
+	<Style id="sn_star">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_star">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_star">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>レモンケーキ</name>
+		<open>1</open>
+		<Placemark>
+			<name> </name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ1.png"><p>
+noix de burre　レモンのケーキ</p>]]></description>
+			<LookAt>
+				<longitude>139.7046298027781</longitude>
+				<latitude>35.69159865163152</latitude>
+				<altitude>0</altitude>
+				<heading>3.996334509240051e-06</heading>
+				<tilt>0</tilt>
+				<range>1018.692222497636</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7046298027781,35.69159865163152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ2.png"><p>
+パティスリー1904　しまなみレモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>139.6908855143196</longitude>
+				<latitude>35.64882019862785</latitude>
+				<altitude>0</altitude>
+				<heading>8.345816831371126e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9443281033105</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6908855143196,35.64882019862784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ3.png"><p>
+茂木一〇香本家　レモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>129.910624971362</longitude>
+				<latitude>32.70384861509095</latitude>
+				<altitude>0</altitude>
+				<heading>-1.262037736495361e-09</heading>
+				<tilt>0</tilt>
+				<range>1024.695495542143</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>129.910624971362,32.70384861509095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ4.png"><p>
+甘楽菓子工房こまつや　レモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>138.9457253894818</longitude>
+				<latitude>36.25308572238261</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003076118551552048</heading>
+				<tilt>28.79791235987508</tilt>
+				<range>132.0421471219803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9455280736753,36.25308868415453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ5.png"><p>
+鈴屋　レモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>135.3827351569687</longitude>
+				<latitude>33.73222824416484</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01468344858611849</heading>
+				<tilt>29.99967437297455</tilt>
+				<range>128.3468378540481</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.3825353544484,33.73204891907326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ6.png"><p>
+日新堂菓子店　レモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>138.9436064211921</longitude>
+				<latitude>34.67280798029176</latitude>
+				<altitude>0</altitude>
+				<heading>1.503038717415339e-06</heading>
+				<tilt>24.22588461583844</tilt>
+				<range>256.6947628083309</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9436064211921,34.67280798029175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>　</name>
+			<description><![CDATA[<img style="max-width:500px;" src="data/pin_icon_image/レモンケーキ/レモンケーキ7.png"><p>
+ユヌクレ　レモンケーキ</p>]]></description>
+			<LookAt>
+				<longitude>139.6487278405997</longitude>
+				<latitude>35.65607562613634</latitude>
+				<altitude>0</altitude>
+				<heading>3.92214069368058e-05</heading>
+				<tilt>29.56588078366397</tilt>
+				<range>121.5893802361248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6486548822584,35.65602542553646,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
